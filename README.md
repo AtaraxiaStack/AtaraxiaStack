@@ -1,6 +1,6 @@
 ### Welcome to my page... 
 
-Computer Science with a "keen" interest in everything IT, systems administration, software development, and cybersecurity.
+Computer Science graduate with a "keen" interest in everything IT, systems administration, software development, and cybersecurity.
 
 
 
