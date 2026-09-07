@@ -1,8 +1,8 @@
 ### Welcome to my page... 
 
-Computer Science graduate with a "keen" interest in everything IT, systems administration, software development, and cybersecurity.
+Computer Science graduate with a keen interest in everything IT, systems administration, software development, and *especially* cybersecurity.
 
-<img width="450" height="300" alt="FinalGif" src="https://github.com/user-attachments/assets/f69a5c23-7835-4e44-a51f-93e571a3ed53" />
+<img width="720" height="480" alt="FinalGif" src="https://github.com/user-attachments/assets/f69a5c23-7835-4e44-a51f-93e571a3ed53" />
 
 
 ## Skills/Proficiency
