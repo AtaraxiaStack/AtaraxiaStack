@@ -2,7 +2,7 @@
 
 Computer Science graduate with a "keen" interest in everything IT, systems administration, software development, and cybersecurity.
 
-<img width="900" height="600" alt="FinalGif" src="https://github.com/user-attachments/assets/f69a5c23-7835-4e44-a51f-93e571a3ed53" />
+<img width="450" height="300" alt="FinalGif" src="https://github.com/user-attachments/assets/f69a5c23-7835-4e44-a51f-93e571a3ed53" />
 
 
 ## Skills/Proficiency
