@@ -1,9 +1,8 @@
-### Welcome to my page... 
+### YOU WORK YOUR FINGERS TO THE BONE
 
 Computer Science graduate with a keen interest in everything IT, systems administration, software development, and *especially* cybersecurity.
 
-<img width="720" height="480" alt="FinalGif" src="https://github.com/user-attachments/assets/f69a5c23-7835-4e44-a51f-93e571a3ed53" />
-
+<img width="813" height="595" alt="FInalFINALGIF" src="https://github.com/user-attachments/assets/e70336fb-3063-49b2-b01c-1b91a3f22130" />
 
 ## Skills/Proficiency
 
