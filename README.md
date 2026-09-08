@@ -2,7 +2,6 @@
 
 Computer Science graduate with a keen interest in everything IT, systems administration, software development, and *especially* cybersecurity.
 
-<img width="650" height="476" alt="FInalFINALGIF" src="https://github.com/user-attachments/assets/e70336fb-3063-49b2-b01c-1b91a3f22130" />
 
 ## Skills/Proficiency
 
@@ -19,3 +18,8 @@ Computer Science graduate with a keen interest in everything IT, systems adminis
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00C7D4?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-critical?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+
+<img width="542" height="396" alt="FInalFINALGIF" src="https://github.com/user-attachments/assets/e70336fb-3063-49b2-b01c-1b91a3f22130" />
+
+## Please take a look at [ScaleLock](https://github.com/AtaraxiaStack/ScaleLock)
